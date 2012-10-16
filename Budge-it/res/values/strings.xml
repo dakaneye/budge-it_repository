@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Budge-it</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_splash">Budge-it</string>
+    <string name="welcome">Welcome to Budge-it!</string>
+    <string name="enter">Enter</string>
+    <string name="monthly_budget">Enter your monthly budget:</string>
+    <color name="dark_green">#006633</color>
+    <color name="black">#000000</color>
+    <string name="slogan">Budget on Budge-it</string>
+    <color name="white">#F0F8FF</color>
+    <string name="check">Is this the correct amount?</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="receipt_picture_button">Take a Picture of your Receipt!</string>
+    <string name="manual_transaction_button">Enter your Transaction Manually!</string>
+    <string name="view_transaction_button">View Transactions</string>
+    <string name="view_budget_button">View Your Monthly Budget</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="budget">$00.00</string>
+    <string name="manual_transaction_entry">Enter your transaction:</string>
+
+</resources>
